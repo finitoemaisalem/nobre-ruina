@@ -1,0 +1,48 @@
+---
+const songs = [
+  {
+    id: "valsa",
+    title: "Valsa",
+  },
+  {
+    id: "meandro",
+    title: "Meandro",
+  },
+  {
+    id: "terra-de-ninguém",
+    title: "Terra de ninguém",
+  },
+  {
+    id: "história-de-acordar",
+    title: "História de acordar",
+  },
+  {
+    id: "nobre-ruína",
+    title: "Nobre Ruína",
+  },
+  {
+    id: "terra-de-ninguém-1",
+    title: "Terra de ninguém",
+  },
+  {
+    id: "entretanto",
+    title: "Entretanto",
+  },
+  {
+    id: "se-eu-me-bastasse",
+    title: "Se eu me bastasse",
+  },
+  {
+    id: "sigo-o-caminho",
+    title: "Sigo o caminho",
+  },
+  {
+    id: "natal-segundo-isaías",
+    title: "Natal segundo Isaías",
+  },
+];
+---
+
+<nav>
+  {songs.map((item) => <a href={`#${item.id}`}>{item.title}</a>)}
+</nav>
