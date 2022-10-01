@@ -1,6 +1,6 @@
 ---
 title: Finito e mais além
-layout: '../layouts/Layout.astro'
+layout: "../layouts/Layout.astro"
 ---
 
 ## Valsa
@@ -13,6 +13,8 @@ Combates e confrontos, mais dores que confortos
 
 Estranha batida… a dança da vida!
 
+<br>
+  
 **Quem me dera que… Fosse uma valsa!**
 
 **Um, dois, três, um pé de cada vez**
@@ -20,6 +22,8 @@ Estranha batida… a dança da vida!
 **Quem me dera que… Fosse uma valsa!**
 
 **Um, dois, três, e outra vez**
+
+<br>
 
 O ritmo da vida é difícil de apanhar
 
@@ -29,6 +33,8 @@ Mais lutas do que glórias, derrotas que vitórias!?
 
 O morrer é lucro, na morte está a vida!?
 
+<br>
+
 **Quem me dera que… Fosse uma valsa!**
 
 **Um, dois, três, um pé de cada vez**
@@ -37,6 +43,8 @@ O morrer é lucro, na morte está a vida!?
 
 **Um, dois, três, e outra vez**
 
+<br>
+
 O ritmo da vida não dá para controlar
 
 É como entrar na dança tenso e enrijado
@@ -44,6 +52,8 @@ O ritmo da vida não dá para controlar
 O céu é nosso chão, o cair é o crescer
 
 Que louca é a batida da dança da vida!
+
+<br>
 
 **Quem me dera que… Fosse uma valsa!**
 
@@ -79,9 +89,13 @@ E vê um percurso
 
 Maior a ser corrido
 
-**A vida não anda ao ritmo que a gente quer** 
+<br>
+
+**A vida não anda ao ritmo que a gente quer**
 
 **A vida não é o momento que a gente vê**
+
+<br>
 
 Como o meandro
 
@@ -107,9 +121,12 @@ E vê um percurso
 
 Maior a ser corrido
 
-**A vida não anda ao ritmo que a gente quer** 
+<br>
+
+**A vida não anda ao ritmo que a gente quer**
 
 **A vida não é o momento que a gente vê**
+
 
 ## Terra de ninguém
 
@@ -132,6 +149,7 @@ Acha a nudez um ultraje
 Estou em terra de ninguém
 
 Estou em terra de ninguém
+
 
 ## História de acordar
 
@@ -165,21 +183,25 @@ Minha história já está gasta, já faliu
 
 Não lhe vejo como acaba, tenho a alma almareada
 
-*Mas que parvoíce é esta, que mania de descrença*
+<br>
 
-*Não vês um palmo à frente do nariz?*
+_Mas que confusão é esta, que mania de descrença_
 
-*Vens morrer na praia e não vês a madrugada*
+_Não vês um palmo à frente do nariz?_
 
-*Aceita que precisas de ouvir*
+_Vens morrer na praia e não vês a madrugada_
 
-*A história bem contada com a tónica no sítio*
+_Aceita que precisas de ouvir_
 
-*Não foge da tragédia, no buraco negro vê a luz*
+_A história bem contada com a tónica no sítio_
 
-*Não te apoquentes, e não desesperes*
+_Não foge da tragédia, no buraco negro vê a luz_
 
-*Não vês que tinha de ser assim?*
+_Não te apoquentes, e não desesperes_
+
+_Não vês que tinha de ser assim?_
+
+<br>
 
 Conta-me uma história de acordar…
 
@@ -193,6 +215,7 @@ De pôr um salto no andar, dê rumo ao caminhar
 
 E receba o pão diário oferecido
 
+
 ## Nobre Ruína
 
 **Que sortudo vento apareceu**
@@ -202,6 +225,8 @@ E receba o pão diário oferecido
 **Que sortudo mar se levantou**
 
 **E a confortável reputação afogou**
+
+<br>
 
 Quando o olhar ousado indaga a alma
 
@@ -213,6 +238,8 @@ A pobreza é um sucesso
 
 Já não há casa sequer
 
+<br>
+
 **Que sortudo vento apareceu**
 
 **E de rajada afastou a auréola com o anseio**
@@ -220,6 +247,8 @@ Já não há casa sequer
 **Que sortudo mar se levantou**
 
 **E a confortável reputação afogou**
+
+<br>
 
 Quando o olhar ousado indaga a alma
 
@@ -233,6 +262,8 @@ Astros e amigos
 
 Exaltam-se contra esta nobre ruína
 
+<br>
+
 **Que sortudo vento apareceu**
 
 **E de rajada afastou a auréola com o anseio**
@@ -240,6 +271,8 @@ Exaltam-se contra esta nobre ruína
 **Que sortudo mar se levantou**
 
 **E a confortável reputação afogou**
+
+<br>
 
 Nesta nobre Ruína há estilhaços de uma vida
 
@@ -249,13 +282,16 @@ Sobressai o eterno
 
 A pedra de esquina desafia qualquer olhar
 
-*Fica quieto*
+<br>
 
-*Não são necessários mais comentários*
+_Fica quieto_
 
-*Encontraste o teu lugar no mundo*
+_Não são necessários mais comentários_
 
-*É o último*
+_Encontraste o teu lugar no mundo_
+
+_É o último_
+
 
 ## Terra de ninguém
 
@@ -279,6 +315,7 @@ Estou em terra de ninguém
 
 Estou em terra de ninguém
 
+
 ## Entretanto
 
 Criação aguarda o porvir
@@ -297,15 +334,19 @@ O meu consolo, de onde virá?
 
 Mas entretanto…
 
-*Entre tanto chorar e alegrar*
+<br>
 
-*Entre tanto rir e reclamar*
+_Entre tanto chorar e alegrar_
 
-*Entre tanto guardar e esquecer*
+_Entre tanto rir e reclamar_
 
-*Entre tanto querer e não poder*
+_Entre tanto guardar e esquecer_
 
-*Entretanto!*
+_Entre tanto querer e não poder_
+
+_Entretanto!_
+
+<br>
 
 Liberdade, o parto final
 
@@ -315,11 +356,15 @@ A espera longa, por fim cessará
 
 Mas entretanto…
 
-*Entretanto, a espera cansa*
+<br>
 
-*Entretanto, há desgaste*
+_Entretanto, a espera cansa_
 
-*Entretanto, como esperar com esperança?*
+_Entretanto, há desgaste_
+
+_Entretanto, como esperar com esperança?_
+
+<br>
 
 Entretanto, não estamos sós
 
@@ -328,6 +373,7 @@ Entretanto, há um entre nós
 O meu consolo, a restauração
 
 E entre tanto...
+
 
 ## Se eu me bastasse
 
@@ -347,13 +393,17 @@ Que aponta para além de mim, de mim
 
 Que aponta para além de mim
 
-*Por onde me apoiar?*
+<br>
 
-*Quem vai me sustentar?*
+_Por onde me apoiar?_
 
-*Haja, haja alguém assim, assim*
+_Quem vai me sustentar?_
 
-*Haja, haja alguém assim*
+_Haja, haja alguém assim, assim_
+
+_Haja, haja alguém assim_
+
+<br>
 
 Se eu me bastasse
 
@@ -362,6 +412,7 @@ Se eu conjurasse
 Se eu pudesse ao menos descansar em mim
 
 Se eu pudesse ao menos descansar
+
 
 ## Sigo o caminho
 
@@ -381,6 +432,8 @@ Sei que me canso, mas nele descanso
 
 Nada me falta, ele me basta
 
+<br>
+
 **Venham a nós, venham a nós**
 
 **Venham a nós os teus verdes pastos**
@@ -389,6 +442,8 @@ Nada me falta, ele me basta
 
 **Seja teu o caminho**
 
+<br>
+
 Sem nada p’ra dar sou teu convidado
 
 Recebes-me como se fosse um rei
@@ -396,6 +451,8 @@ Recebes-me como se fosse um rei
 Sei o que mereço, mas tu não vês preço
 
 Nada me falta, tu me bastas
+
+<br>
 
 **Venham a nós, venham a nós**
 
@@ -407,21 +464,31 @@ Nada me falta, tu me bastas
 
 ## Natal segundo Isaías
 
-O povo que caminhava nas trevas viu uma luz
-
-Vivia nas sombras e uma luz brilhou
-
-*Acendeste a alegria, afastaste a opressão*
-
-*E a bota que pisa verá o seu caixão*
+<br>
 
 O povo que caminhava nas trevas viu uma luz
 
 Vivia nas sombras e uma luz brilhou
 
-*É que um menino nos nasceu, um filho nos foi dado*
+<br>
 
-*Soberania nos seus ombros, e assim é apresentado*
+_Acendeste a alegria, afastaste a opressão_
+
+_E a bota que pisa verá o seu caixão_
+
+<br>
+
+O povo que caminhava nas trevas viu uma luz
+
+Vivia nas sombras e uma luz brilhou
+
+<br>
+
+_É que um menino nos nasceu, um filho nos foi dado_
+
+_Soberania nos seus ombros, e assim é apresentado_
+
+<br>
 
 **Conselheiro maravilhoso**
 
@@ -431,17 +498,23 @@ Vivia nas sombras e uma luz brilhou
 
 **Príncipe da paz**
 
+<br>
+
 Consolem o meu povo, falem ao coração
 
 O esforço acabou, o pecado foi saldado
 
-*Preparem no deserto o caminho do Senhor*
+<br>
 
-*Levantem esses vales e rebaixem as colinas*
+_Preparem no deserto o caminho do Senhor_
 
-*É que um menino nos nasceu, um filho nos foi dado*
+_Levantem esses vales e rebaixem as colinas_
 
-*Soberania nos seus ombros, e assim é apresentado*
+_É que um menino nos nasceu, um filho nos foi dado_
+
+_Soberania nos seus ombros, e assim é apresentado_
+
+<br>
 
 **Conselheiro maravilhoso**
 
